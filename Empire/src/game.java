@@ -16,7 +16,7 @@ public class game {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         List<City> formations = new ArrayList<>();
 
 
